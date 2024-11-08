@@ -13,8 +13,9 @@ Here are some of the projects I have worked on:
 ## Medical Image Generation
 ### 3D Causal-StyleGAN3 for Synthesizing MR Images of Alzheimer’s Disease
 
-[![Paper]({{ "/assets/files/AMLS_Causal_3D_Stylegan3.pdf" | relative_url }}){:target="_blank"}](https://img.shields.io/badge/PDF-Report-red?logo=adobe-acrobat-reader)
-[![Medium](https://img.shields.io/badge/Medium-Blogpost-white?logo=Medium)](https://medium.com/@marcelfernandez_26751/generative-ai-for-early-onset-alzheimers-disease-research-9f877b228c94){:target="_blank"}
+<a href="{{ "/assets/files/AMLS_Causal_3D_Stylegan3.pdf" | relative_url }}" target="_blank">
+<img src="https://img.shields.io/badge/PDF-Report-red?logo=adobe-acrobat-reader" alt="Paper">
+</a>[![Medium](https://img.shields.io/badge/Medium-Blogpost-white?logo=Medium)](https://medium.com/@marcelfernandez_26751/generative-ai-for-early-onset-alzheimers-disease-research-9f877b228c94){:target="_blank"}
 
 During a research seminar at the Hasso-Plattner-Institute we developed a novel approach to generate images from underrepresented AD populations, including younger patients and those with less advanced disease stages.
 The developed model uses a causal graph to represent the relationships between age, sex, clinical dementia rating, and brain volumes, and can intervene on these variables to generate images with specific features.
