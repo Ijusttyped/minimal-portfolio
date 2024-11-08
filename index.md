@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marcel Fernandez Rosas - Portfolio
+title: Portfolio
 description: A collection of projects I have worked on
 ---
 
