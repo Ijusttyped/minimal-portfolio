@@ -1,6 +1,28 @@
-title: Minimal theme
+title: Marcel Fernandez Rosas
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: |
+  <p align="center" style="font-size: 16px; color: black;">
+  Potsdam, Germany
+  <br>
+  <a target="_blank" href="mailto:marcel@fernandez-rosas.com"><i class="fas fa-envelope" style="font-size: 24px;"></i></a> |
+  <a target="_blank"  href="https://www.linkedin.com/in/marcel-fernandez-rosas/"><i class="fab fa-linkedin" style="font-size: 24px;"></i></a> |
+  <a target="_blank" href="https://github.com/Ijusttyped"><i class="fab fa-github" style="font-size: 24px;"></i></a> |
+  <a target="_blank" href="https://medium.com/@marcelfernandez_26751"><i class="fab fa-medium" style="font-size: 24px;"></i></a>
+  </p>
+  <p align="justify" style="font-size: 14px; color: black;">
+  I am a <b>digital health enthusiast</b> who enjoys connecting the dots of technology and healthcare.
+  <br>
+  My Bachelor's degree in  <b>Economathematics</b> has given me a strong foundation in analytical problem solving.
+  <br>
+  My Master's in <b>Digital Health</b> has provided me with the knowledge and skills to drive healthcare innovation.
+  <br>
+  I've had the opportunity to apply my skills in <b>delivering software solutions</b>, <b>managing projects</b>, and <b>collaborating with interdisciplinary teams</b> to drive real-world impact.
+  <br>
+  I'm passionate about using technology to improve healthcare outcomes and am excited to collaborate with others who share this vision.
+  <br>
+  Colleagues and friends appreciate me for my <b>friendly</b>, <b>empathetic</b>, <b>creative</b>, and determined nature. I am <b>responsible</b>, pragmatic, and organized, but <b>flexible</b>.
+  <br><br>
+  </p>
+show_downloads: false
+google_analytics: G-LZSREWBMNB
 theme: jekyll-theme-minimal

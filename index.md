@@ -1,123 +1,45 @@
 ---
 layout: default
+title: Portfolio
+description: A collection of projects I have worked on
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Projects
 
-[Link to another page](./another-page.html).
+Here are some of the projects I have worked on:
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Medical Image Generation
+### 3D Causal-StyleGAN3 for Synthesizing MR Images of Alzheimer’s Disease
 
-# Header 1
+[![Paper](https://img.shields.io/badge/PDF-Report-red?logo=adobe-acrobat-reader)](/assets/files/AMLS_Causal_3D_Stylegan3.pdf){:target="_blank"}
+[![Medium](https://img.shields.io/badge/Medium-Blogpost-white?logo=Medium)](https://medium.com/@marcelfernandez_26751/generative-ai-for-early-onset-alzheimers-disease-research-9f877b228c94){:target="_blank"}
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+During a research seminar at the Hasso-Plattner-Institute we developed a novel approach to generate images from underrepresented AD populations, including younger patients and those with less advanced disease stages.
+The developed model uses a causal graph to represent the relationships between age, sex, clinical dementia rating, and brain volumes, and can intervene on these variables to generate images with specific features.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Medical Image Segmentation
+### A simulation framework for benchmarking active learning strategies for 3D medical image segmentation
 
-### Header 3
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=GitHub)](https://github.com/HealthML/active-segmentation){:target="_blank"}
+[![Paper](https://img.shields.io/badge/arXiv-Paper-red?logo=Arxiv)](https://arxiv.org/abs/2207.00845){:target="_blank"}
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+During a research seminar at the Hasso-Plattner-Institute we developed an active learning benchmarking framework for scientists seeking comparability and reproducibility.
+The framework is open-source and our paper was accepted at the [Adaptive Experimental Design and Active Learning in the Real World](https://realworldml.github.io/icml2022/) workshop at ICML 2022.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Fair Compensation
+### A showcase for calculating fair salary with machine learning
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[![Backend](https://img.shields.io/badge/GitHub-Backend-blue?logo=GitHub)](https://github.com/Ijusttyped/fair-compensation-backend){:target="_blank"}
+[![Backend](https://img.shields.io/badge/GitHub-Frontend-blue?logo=GitHub)](https://github.com/Ijusttyped/fair-compensation-frontend){:target="_blank"}
+[![Demo](https://img.shields.io/badge/Live%20Demo-32cd32)](https://ijusttyped.github.io/fair-compensation-frontend/){:target="_blank"}
 
-##### Header 5
+The objective of the project is to showcase how machine learning can be used to make the salary structure fair.
+This may involve, for example, identifying and eliminating potential gender pay disparities, making pay increases or new hires fair.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
