@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marcel Fernandez Rosas - Portfolio
+title: Portfolio
 description: A collection of projects I have worked on
 ---
 
@@ -13,7 +13,7 @@ Here are some of the projects I have worked on:
 ## Medical Image Generation
 ### 3D Causal-StyleGAN3 for Synthesizing MR Images of Alzheimer’s Disease
 
-[![Paper](https://img.shields.io/badge/PDF-Report-red?logo=adobe-acrobat-reader)](/assets/files/AMLS_Causal_3D_Stylegan3.pdf){:target="_blank"}
+[![Paper]({{ "/assets/files/AMLS_Causal_3D_Stylegan3.pdf" | relative_url }}){:target="_blank"}](https://img.shields.io/badge/PDF-Report-red?logo=adobe-acrobat-reader)
 [![Medium](https://img.shields.io/badge/Medium-Blogpost-white?logo=Medium)](https://medium.com/@marcelfernandez_26751/generative-ai-for-early-onset-alzheimers-disease-research-9f877b228c94){:target="_blank"}
 
 During a research seminar at the Hasso-Plattner-Institute we developed a novel approach to generate images from underrepresented AD populations, including younger patients and those with less advanced disease stages.
