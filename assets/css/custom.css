@@ -1,0 +1,62 @@
+/* assets/css/custom.css */
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header-content {
+    text-align: center;
+    padding: 20px;
+}
+
+.responsive-logo {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: auto;
+}
+
+.responsive-description {
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+}
+
+@media (max-width: 768px) {
+    .responsive-logo {
+        width: 100px;
+    }
+
+    .responsive-description {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .responsive-logo {
+        width: 80px;
+    }
+
+    .responsive-description {
+        font-size: 12px;
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    footer {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    footer {
+        font-size: 10px;
+    }
+}
