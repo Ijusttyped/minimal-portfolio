@@ -14,7 +14,9 @@ A partial list of projects I have worked on.
 ### Eclipse Data Space Components Connector for Healthcare Data Sharing
 
 [//]: # ([![GitHub]&#40;https://img.shields.io/badge/GitHub-Repository-blue?logo=GitHub&#41;]&#40;https://github.com&#41;{:target="_blank"})
-[![Medium](https://img.shields.io/badge/Medium-Data%20Spaces-white?logo=Medium)](https://medium.com/@marcelfernandez_26751/empowering-healthcare-through-data-spaces-an-introduction-to-eclipse-data-space-components-edc-4421e280236c){:target="_blank"}
+[![Medium](https://img.shields.io/badge/Medium-EDC%20Intro-white?logo=Medium)](https://medium.com/@marcelfernandez_26751/empowering-healthcare-through-data-spaces-an-introduction-to-eclipse-data-space-components-edc-4421e280236c){:target="_blank"}
+[![Medium](https://img.shields.io/badge/Medium-EDC%20DICOMweb-white?logo=Medium)](https://medium.com/@marcelfernandez_26751/secure-and-sovereign-medical-image-sharing-via-dicomweb-and-eclipse-dataspace-components-edc-4c6abcfacc88){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=GitHub)](https://github.com/Ijusttyped/edc-dicomweb-transfer){:target="_blank"}
 
 [//]: # ([![Medium]&#40;https://img.shields.io/badge/Medium-DICOM%20Data%20Sharing-white?logo=Medium&#41;]&#40;https://medium.com/@marcelfernandez_26751/empowering-healthcare-through-data-spaces-an-introduction-to-eclipse-data-space-components-edc-4421e280236c&#41;{:target="_blank"})
 
